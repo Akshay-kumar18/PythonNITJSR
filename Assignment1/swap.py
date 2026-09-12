@@ -8,5 +8,5 @@ print("Number after swapping is :")
 num3 = num1
 num1 = num2
 num2 = num3
-print("first number is :", num1)
-print("second number is :", num2)
+print("swapped number is :", num1,num2)
+ 
