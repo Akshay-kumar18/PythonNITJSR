@@ -4,7 +4,7 @@ b = float(num_int1)
 print(type(a))
 print(type(b))
 
-string1 =  input("Enter string: ")
+string1 =  str(input("Enter string: "))
 c = int(string1)
 d = float(string1)
 print(type(string1))
