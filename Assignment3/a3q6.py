@@ -6,4 +6,6 @@ elif 150000<=bs<=300000:
 else:
     print("Income tax = ",(30*bs)/100)
     
+  
+    
 
